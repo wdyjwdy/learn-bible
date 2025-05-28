@@ -17,4 +17,12 @@ export default {
       breadcrumb: false,
     },
   },
+  resource: {
+    title: "Resource",
+    type: "page",
+    theme: {
+      timestamp: false,
+      breadcrumb: false,
+    },
+  },
 };
