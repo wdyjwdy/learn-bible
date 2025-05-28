@@ -25,4 +25,12 @@ export default {
       breadcrumb: false,
     },
   },
+  basic: {
+    title: "Basic",
+    type: "page",
+    theme: {
+      timestamp: false,
+      breadcrumb: false,
+    },
+  },
 };

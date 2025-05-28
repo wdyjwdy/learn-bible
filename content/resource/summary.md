@@ -15,8 +15,8 @@
 ## 牧师
 
 - 大卫鲍森
-  - [新约纵览](https://goodtvplus.good-tv.org/watch?type=1&series=2683&episode=86116)
-  - [旧约纵览](https://goodtvplus.good-tv.org/watch?episode=86076)
+  - [旧约纵览](https://goodtvplus.good-tv.org/watch?type=1&series=2683&episode=86116)
+  - [新约纵览](https://goodtvplus.good-tv.org/watch?episode=86076)
 
 ## 问答
 
