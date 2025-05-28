@@ -1,0 +1,24 @@
+{
+  "name": "learn-bible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "postbuild": "pagefind --site .next/server/app --output-path out/_pagefind"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.8.0",
+  "dependencies": {
+    "lucide-react": "^0.511.0",
+    "next": "^15.3.2",
+    "nextra": "^4.2.17",
+    "nextra-theme-docs": "^4.2.17",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

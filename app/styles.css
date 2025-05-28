@@ -1,0 +1,102 @@
+h1 {
+    text-align: center;
+}
+
+em {
+    text-decoration-line: underline;
+    text-underline-offset: 4px;
+    font-style: normal;
+    text-decoration-color: red;
+}
+
+strong {
+    color: indianred;
+}
+
+kbd {
+    display: none;
+}
+
+.nextra-search input {
+    border: 1px solid rgba(0, 0, 0, 0.02);
+}
+
+.nextra-search input:focus {
+    box-shadow: none;
+    background-color: transparent;
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+    .nextra-search input:focus {
+        border-color: rgba(255, 255, 255, 0.1);
+    }
+}
+
+.nextra-search-results mark {
+    background-color: transparent;
+    color: royalblue;
+}
+
+.nextra-scrollbar {
+    scrollbar-width: none;
+}
+
+button[aria-label="Minimize image"] {
+    opacity: 0;
+}
+
+div[data-rmiz-modal-overlay="visible"] {
+    background-color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+    div[data-rmiz-modal-overlay="visible"] {
+        background-color: black;
+    }
+}
+
+.nextra-navbar .nextra-scrollbar {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    .nextra-search,
+    .nextra-search input {
+        width: 216px;
+    }
+}
+
+.callout-box {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.callout-tip {
+    border-color: rgba(0, 128, 0, 0.3);
+    background-color: rgba(0, 128, 0, 0.1);
+}
+
+.callout-tip strong {
+    color: seagreen;
+}
+
+.callout-caution {
+    border-color: rgba(128, 0, 0, 0.3);
+    background-color: rgba(128, 0, 0, 0.1);
+}
+
+.callout-caution strong {
+    color: indianred;
+}
+
+.callout-note {
+    border-color: rgba(0, 0, 200, 0.3);
+    background-color: rgba(0, 0, 200, 0.1);
+}
+
+.callout-note strong {
+    color: royalblue;
+}
