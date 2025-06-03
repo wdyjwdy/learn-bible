@@ -17,6 +17,14 @@ kbd {
     display: none;
 }
 
+pre {
+    text-wrap-mode: wrap;
+
+    div:first-child {
+        display: none;
+    }
+}
+
 .nextra-search input {
     border: 1px solid rgba(0, 0, 0, 0.02);
 }
