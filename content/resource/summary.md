@@ -22,3 +22,4 @@
 
 - [Got Questions](https://www.gotquestions.org/Chinese/)
 - [耶和华见证人](https://www.jw.org/cmn-hans/)
+- [The Interactive Bible](https://www.bible.ca/)
